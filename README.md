@@ -22,7 +22,6 @@ Run build image with command
 
 ```
 docker run -it --name <name of container> -p 8888:8888 <name image>
-
 ```
 
 if there is no local image with the name, the Docker daemon searches and downloads image e.g. "jupyter/base-notebook" from Docker hub
