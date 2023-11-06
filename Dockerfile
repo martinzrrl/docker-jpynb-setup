@@ -1,4 +1,4 @@
-# Downloads base image as starting point from Docker Hub
+# Download base image from Docker Hub as starting point
 FROM jupyter/base-notebook
 
 
